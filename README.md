@@ -1,5 +1,5 @@
 ## Robotic Process Automation
-This project was done by Grace Gicheru, a student of Moringa
+This project was done by Grace Gicheru
 
 ## Project Description
 This project is about automating workflows by use of bots to automate once triggered.
